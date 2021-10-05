@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 5132cf9ff69123046955f9e20632da15
+timeCreated: 1496824365
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerBlue_dead.png
+    21300002: playerBlue_duck.png
+    21300004: playerBlue_fall.png
+    21300006: playerBlue_hit.png
+    21300008: playerBlue_roll.png
+    21300010: playerBlue_stand.png
+    21300012: playerBlue_swim1.png
+    21300014: playerBlue_swim2.png
+    21300016: playerBlue_switch1.png
+    21300018: playerBlue_switch2.png
+    21300020: playerBlue_up1.png
+    21300022: playerBlue_up2.png
+    21300024: playerBlue_up3.png
+    21300026: playerBlue_walk1.png
+    21300028: playerBlue_walk2.png
+    21300030: playerBlue_walk3.png
+    21300032: playerBlue_walk4.png
+    21300034: playerBlue_walk5.png
+    21300036: playerGreen_dead.png
+    21300038: playerGreen_duck.png
+    21300040: playerGreen_fall.png
+    21300042: playerGreen_hit.png
+    21300044: playerGreen_roll.png
+    21300046: playerGreen_stand.png
+    21300048: playerGreen_swim1.png
+    21300050: playerGreen_swim2.png
+    21300052: playerGreen_switch1.png
+    21300054: playerGreen_switch2.png
+    21300056: playerGreen_up1.png
+    21300058: playerGreen_up2.png
+    21300060: playerGreen_up3.png
+    21300062: playerGreen_walk1.png
+    21300064: playerGreen_walk2.png
+    21300066: playerGreen_walk3.png
+    21300068: playerGreen_walk4.png
+    21300070: playerGreen_walk5.png
+    21300072: playerGrey_dead.png
+    21300074: playerGrey_duck.png
+    21300076: playerGrey_fall.png
+    21300078: playerGrey_hit.png
+    21300080: playerGrey_roll.png
+    21300082: playerGrey_stand.png
+    21300084: playerGrey_swim1.png
+    21300086: playerGrey_swim2.png
+    21300088: playerGrey_switch1.png
+    21300090: playerGrey_switch2.png
+    21300092: playerGrey_up1.png
+    21300094: playerGrey_up2.png
+    21300096: playerGrey_up3.png
+    21300098: playerGrey_walk1.png
+    21300100: playerGrey_walk2.png
+    21300102: playerGrey_walk3.png
+    21300104: playerGrey_walk4.png
+    21300106: playerGrey_walk5.png
+    21300108: playerRed_dead.png
+    21300110: playerRed_duck.png
+    21300112: playerRed_fall.png
+    21300114: playerRed_hit.png
+    21300116: playerRed_roll.png
+    21300118: playerRed_stand.png
+    21300120: playerRed_swim1.png
+    21300122: playerRed_swim2.png
+    21300124: playerRed_switch1.png
+    21300126: playerRed_switch2.png
+    21300128: playerRed_up1.png
+    21300130: playerRed_up2.png
+    21300132: playerRed_up3.png
+    21300134: playerRed_walk1.png
+    21300136: playerRed_walk2.png
+    21300138: playerRed_walk3.png
+    21300140: playerRed_walk4.png
+    21300142: playerRed_walk5.png
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerBlue_dead.png
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 465
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_duck.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_fall.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 38
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_hit.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 213
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_roll.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 124
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_stand.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 357
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_switch1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_switch2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_up1.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 93
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_up2.png
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 203
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_up3.png
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 346
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 148
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 302
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_walk3.png
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 412
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_walk4.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 430
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerBlue_walk5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_dead.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 327
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_duck.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_fall.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_hit.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 172
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_roll.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 206
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_stand.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 117
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 363
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 247
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_switch1.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 305
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_switch2.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_up1.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 16
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_up2.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 469
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_up3.png
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 306
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 418
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 119
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_walk3.png
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 278
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_walk4.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGreen_walk5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_dead.png
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 238
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_duck.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_fall.png
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 421
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_hit.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 476
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_roll.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_stand.png
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 27
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 259
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_switch1.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 213
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_switch2.png
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_up1.png
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 73
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_up2.png
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 377
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_up3.png
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 467
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 191
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_walk3.png
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 235
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_walk4.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerGrey_walk5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_dead.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 316
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_duck.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_fall.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 263
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_hit.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_roll.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 165
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_stand.png
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 314
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 254
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_switch1.png
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_switch2.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_up1.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 214
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_up2.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 371
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_up3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 464
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 418
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_walk3.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_walk4.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 387
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerRed_walk5.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

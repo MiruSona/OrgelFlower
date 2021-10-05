@@ -1,0 +1,2047 @@
+fileFormatVersion: 2
+guid: 9bd05e73b8e2e774ab4b297c6ad70b6e
+timeCreated: 1496824370
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blockBrown.png
+    21300002: blockBrown_broken.png
+    21300004: blockGreen.png
+    21300006: blockGreen_key.png
+    21300008: blockGreen_lock.png
+    21300010: blockGreen_puzzle.png
+    21300012: blockGrey.png
+    21300014: blockGrey_broken.png
+    21300016: blockRed.png
+    21300018: blockRed_key.png
+    21300020: blockRed_lock.png
+    21300022: blockRed_puzzle.png
+    21300024: buttonFloor.png
+    21300026: buttonFloor_pressed.png
+    21300028: buttonGreen.png
+    21300030: buttonGreen_pressed.png
+    21300032: buttonRed.png
+    21300034: buttonRed_pressed.png
+    21300036: doorGreen.png
+    21300038: doorGreen_lock.png
+    21300040: doorGreen_top.png
+    21300042: doorOpen.png
+    21300044: doorOpen_top.png
+    21300046: doorRed.png
+    21300048: doorRed_lock.png
+    21300050: doorRed_top.png
+    21300052: fence.png
+    21300054: fenceBroken.png
+    21300056: fenceLeft.png
+    21300058: fenceMid.png
+    21300060: fenceOpen.png
+    21300062: fenceRight.png
+    21300064: flagGreen_down.png
+    21300066: flagGreen_up.png
+    21300068: flagRed_down.png
+    21300070: flagRed_up.png
+    21300072: fluidBlue.png
+    21300074: fluidBlue_top.png
+    21300076: fluidBrown.png
+    21300078: fluidBrown_top.png
+    21300080: fluidGreen.png
+    21300082: fluidGreen_top.png
+    21300084: fluidRed.png
+    21300086: fluidRed_top.png
+    21300088: ladderNarrow_mid.png
+    21300090: ladderNarrow_top.png
+    21300092: ladderWide_mid.png
+    21300094: ladderWide_top.png
+    21300096: lockGreen.png
+    21300098: lockGreenBottom.png
+    21300100: lockGreenLeft.png
+    21300102: lockGreenLock.png
+    21300104: lockGreenMid.png
+    21300106: lockGreenRight.png
+    21300108: lockGreenTop.png
+    21300110: lockRed.png
+    21300112: lockRedBottom.png
+    21300114: lockRedLeft.png
+    21300116: lockRedLock.png
+    21300118: lockRedMid.png
+    21300120: lockRedRight.png
+    21300122: lockRedTop.png
+    21300124: plantBlue_1.png
+    21300126: plantBlue_2.png
+    21300128: plantBlue_3.png
+    21300130: plantBlue_4.png
+    21300132: plantBlue_5.png
+    21300134: plantBlue_6.png
+    21300136: plantBottom_1.png
+    21300138: plantBottom_2.png
+    21300140: plantDark_1.png
+    21300142: plantDark_2.png
+    21300144: plantDark_3.png
+    21300146: plantDark_4.png
+    21300148: plantDark_5.png
+    21300150: plantDark_6.png
+    21300152: plantGreen_1.png
+    21300154: plantGreen_2.png
+    21300156: plantGreen_3.png
+    21300158: plantGreen_4.png
+    21300160: plantGreen_5.png
+    21300162: plantGreen_6.png
+    21300164: plantLeaves_1.png
+    21300166: plantLeaves_3.png
+    21300168: plantRed_1.png
+    21300170: plantRed_2.png
+    21300172: plantRed_3.png
+    21300174: plantRed_4.png
+    21300176: plantRed_5.png
+    21300178: plantRed_6.png
+    21300180: plantStem_Tleft.png
+    21300182: plantStem_Tright.png
+    21300184: plantStem_cornerLeft.png
+    21300186: plantStem_cornerRight.png
+    21300188: plantStem_cross.png
+    21300190: plantStem_horizontal.png
+    21300192: plantStem_vertical.png
+    21300194: plantThorns_horizontal.png
+    21300196: plantThorns_vertical.png
+    21300198: plantTop_blue.png
+    21300200: plantTop_leaves.png
+    21300202: plantTop_red.png
+    21300204: plantTop_yellow.png
+    21300206: signArrow.png
+    21300208: signArrow_BL.png
+    21300210: signArrow_BR.png
+    21300212: signArrow_TL.png
+    21300214: signArrow_TR.png
+    21300216: signArrow_down.png
+    21300218: signArrow_left.png
+    21300220: signArrow_right.png
+    21300222: signArrow_up.png
+    21300224: signLarge.png
+    21300226: signSmall.png
+    21300228: signpost.png
+    21300230: spikesHigh.png
+    21300232: spikesLow.png
+    21300234: switchGreen_left.png
+    21300236: switchGreen_mid.png
+    21300238: switchGreen_off.png
+    21300240: switchGreen_on.png
+    21300242: switchGreen_right.png
+    21300244: switchRed_left.png
+    21300246: switchRed_mid.png
+    21300248: switchRed_off.png
+    21300250: switchRed_on.png
+    21300252: switchRed_right.png
+    21300254: vine.png
+    21300256: vine_bottom.png
+    21300258: vine_bottomAlt.png
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blockBrown.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockBrown_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGreen.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGreen_key.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGreen_lock.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGreen_puzzle.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGrey.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockGrey_broken.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockRed.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockRed_key.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockRed_lock.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blockRed_puzzle.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonFloor.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonFloor_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonGreen.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 270
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonGreen_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonRed.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 300
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: buttonRed_pressed.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorGreen.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorGreen_lock.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 246
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorGreen_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorOpen.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 85
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorOpen_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorRed.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorRed_lock.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 839
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: doorRed_top.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fence.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 598
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fenceBroken.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 552
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fenceLeft.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 506
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fenceMid.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 135
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fenceOpen.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fenceRight.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 979
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flagGreen_down.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 690
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flagGreen_up.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 444
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flagRed_down.png
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 963
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: flagRed_up.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 506
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidBlue.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 605
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidBlue_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 540
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidBrown.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 345
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidBrown_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidGreen.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 311
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidGreen_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidRed.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 410
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fluidRed_top.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 181
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ladderNarrow_mid.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 330
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ladderNarrow_top.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 395
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ladderWide_mid.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ladderWide_top.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 865
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreen.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenBottom.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenLeft.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenLock.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenMid.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenRight.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockGreenTop.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 709
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRed.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 644
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedBottom.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedLeft.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 215
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedLock.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedMid.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 410
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedRight.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 914
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lockRedTop.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_1.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 156
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_2.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 179
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_3.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 740
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_4.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 684
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_5.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 214
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBlue_6.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 596
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBottom_1.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantBottom_2.png
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_1.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 766
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_2.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 52
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_3.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 205
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_4.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 857
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_5.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 765
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantDark_6.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 645
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_1.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_2.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 237
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_3.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 20
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_4.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 915
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_5.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 636
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantGreen_6.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 451
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantLeaves_1.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 842
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantLeaves_3.png
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 220
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_1.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 451
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_2.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 292
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_3.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 488
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_4.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 482
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_5.png
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 122
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantRed_6.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 585
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_Tleft.png
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 155
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_Tright.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 520
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_cornerLeft.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 84
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_cornerRight.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 804
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_cross.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_horizontal.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantStem_vertical.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantThorns_horizontal.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantThorns_vertical.png
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 386
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantTop_blue.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 655
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantTop_leaves.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 623
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantTop_red.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 710
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: plantTop_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 568
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 118
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_BL.png
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 512
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_BR.png
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 684
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_TL.png
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 332
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_TR.png
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 388
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_down.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 907
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_left.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 158
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_right.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 214
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signArrow_up.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 966
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signLarge.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 969
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signSmall.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 123
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: signpost.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 907
+        width: 12
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spikesHigh.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spikesLow.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchGreen_left.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 70
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchGreen_mid.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 798
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchGreen_off.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 115
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchGreen_on.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 33
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchGreen_right.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 22
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchRed_left.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchRed_mid.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 966
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchRed_off.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 643
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchRed_on.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 74
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: switchRed_right.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vine.png
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 417
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vine_bottom.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 818
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vine_bottomAlt.png
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 752
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 8759ffeb7bf65054f868231181b42fdd
+timeCreated: 1496824368
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileBlue_01.png
+    21300002: tileBlue_02.png
+    21300004: tileBlue_03.png
+    21300006: tileBlue_04.png
+    21300008: tileBlue_05.png
+    21300010: tileBlue_06.png
+    21300012: tileBlue_07.png
+    21300014: tileBlue_08.png
+    21300016: tileBlue_09.png
+    21300018: tileBlue_10.png
+    21300020: tileBlue_11.png
+    21300022: tileBlue_12.png
+    21300024: tileBlue_13.png
+    21300026: tileBlue_14.png
+    21300028: tileBlue_15.png
+    21300030: tileBlue_16.png
+    21300032: tileBlue_17.png
+    21300034: tileBlue_18.png
+    21300036: tileBlue_19.png
+    21300038: tileBlue_20.png
+    21300040: tileBlue_21.png
+    21300042: tileBlue_22.png
+    21300044: tileBlue_23.png
+    21300046: tileBlue_24.png
+    21300048: tileBlue_25.png
+    21300050: tileBlue_26.png
+    21300052: tileBlue_27.png
+    21300054: tileBrown_01.png
+    21300056: tileBrown_02.png
+    21300058: tileBrown_03.png
+    21300060: tileBrown_04.png
+    21300062: tileBrown_05.png
+    21300064: tileBrown_06.png
+    21300066: tileBrown_07.png
+    21300068: tileBrown_08.png
+    21300070: tileBrown_09.png
+    21300072: tileBrown_10.png
+    21300074: tileBrown_11.png
+    21300076: tileBrown_12.png
+    21300078: tileBrown_13.png
+    21300080: tileBrown_14.png
+    21300082: tileBrown_15.png
+    21300084: tileBrown_16.png
+    21300086: tileBrown_17.png
+    21300088: tileBrown_18.png
+    21300090: tileBrown_19.png
+    21300092: tileBrown_20.png
+    21300094: tileBrown_21.png
+    21300096: tileBrown_22.png
+    21300098: tileBrown_23.png
+    21300100: tileBrown_24.png
+    21300102: tileBrown_25.png
+    21300104: tileBrown_26.png
+    21300106: tileBrown_27.png
+    21300108: tileGreen_01.png
+    21300110: tileGreen_02.png
+    21300112: tileGreen_03.png
+    21300114: tileGreen_04.png
+    21300116: tileGreen_05.png
+    21300118: tileGreen_06.png
+    21300120: tileGreen_07.png
+    21300122: tileGreen_08.png
+    21300124: tileGreen_09.png
+    21300126: tileGreen_10.png
+    21300128: tileGreen_11.png
+    21300130: tileGreen_12.png
+    21300132: tileGreen_13.png
+    21300134: tileGreen_14.png
+    21300136: tileGreen_15.png
+    21300138: tileGreen_16.png
+    21300140: tileGreen_17.png
+    21300142: tileGreen_18.png
+    21300144: tileGreen_19.png
+    21300146: tileGreen_20.png
+    21300148: tileGreen_21.png
+    21300150: tileGreen_22.png
+    21300152: tileGreen_23.png
+    21300154: tileGreen_24.png
+    21300156: tileGreen_25.png
+    21300158: tileGreen_26.png
+    21300160: tileGreen_27.png
+    21300162: tileYellow_01.png
+    21300164: tileYellow_02.png
+    21300166: tileYellow_03.png
+    21300168: tileYellow_04.png
+    21300170: tileYellow_05.png
+    21300172: tileYellow_06.png
+    21300174: tileYellow_07.png
+    21300176: tileYellow_08.png
+    21300178: tileYellow_09.png
+    21300180: tileYellow_10.png
+    21300182: tileYellow_11.png
+    21300184: tileYellow_12.png
+    21300186: tileYellow_13.png
+    21300188: tileYellow_14.png
+    21300190: tileYellow_15.png
+    21300192: tileYellow_16.png
+    21300194: tileYellow_17.png
+    21300196: tileYellow_18.png
+    21300198: tileYellow_19.png
+    21300200: tileYellow_20.png
+    21300202: tileYellow_21.png
+    21300204: tileYellow_22.png
+    21300206: tileYellow_23.png
+    21300208: tileYellow_24.png
+    21300210: tileYellow_25.png
+    21300212: tileYellow_26.png
+    21300214: tileYellow_27.png
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileBlue_01.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 598
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_02.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 259
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_03.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_04.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_05.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_06.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_07.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 570
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_08.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_09.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_10.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_11.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_12.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_13.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_14.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 13
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_15.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 78
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_16.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_17.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_18.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_19.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 338
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_20.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_21.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_22.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_23.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 598
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_24.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 663
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_25.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_26.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 793
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBlue_27.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 844
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_01.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_02.png
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_03.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 29
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_04.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_05.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_06.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 213
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_07.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 267
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_08.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 321
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_09.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_10.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_11.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_12.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 570
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_13.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_14.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_15.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_16.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_17.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_18.png
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_19.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_20.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 78
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_21.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_22.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_23.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_24.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 338
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_25.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 403
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_26.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileBrown_27.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 533
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_01.png
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_02.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 649
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_03.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_04.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_05.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_06.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_07.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_08.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_09.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_10.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_11.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 245
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_12.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 310
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_13.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_14.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_15.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_16.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 570
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_17.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_18.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_19.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_20.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_21.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_22.png
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_23.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_24.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_25.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 165
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_26.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 230
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileGreen_27.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_01.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 332
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_02.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_03.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_04.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_05.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_06.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 570
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_07.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 635
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_08.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_09.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 765
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_10.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_11.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_12.png
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_13.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_14.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_15.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_16.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_17.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_18.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_19.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_20.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_21.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_22.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_23.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_24.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_25.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_26.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tileYellow_27.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
